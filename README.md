@@ -1,2 +1,2 @@
-Run the [app](https://bestkolobok.github.io/charts-app/#/) and unload the test file, which is located in the test folder
+Run the [app](https://bestkolobok.github.io/charts-app/#/) and unload the [test file](/test_files/test_file.xlsx)
 
