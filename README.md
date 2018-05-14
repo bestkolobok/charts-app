@@ -1,8 +1,8 @@
 # Charts-app
-```bash
+
 Charts and sheets application
-# Test project for Vue.js learning
-```
+> Test project for Vue.js learning
+
 
 
 
