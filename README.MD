@@ -1,4 +1,5 @@
-# movie_db_vue
+# charts-app
+
 Test project for Vue.js learning
 
 > A Vue.js project
